@@ -121,7 +121,7 @@
   ],
   "nodeMaps": [
     {
-      "url": "http://bremen.freifunk.net/map/meshviewer.html",
+      "url": "http://map.bremen.freifunk.net/",
       "interval": "1min",
       "technicalType": "meshviewer",
       "mapType": "geographical"
