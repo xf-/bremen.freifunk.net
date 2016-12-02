@@ -4,7 +4,6 @@ description: Freifunk steht für freie Kommunikation in digitalen Datennetzen. W
 timezone: Europe/Berlin
 encoding: UTF-8
 
-future: true
 permalink: /blog/:year/:month/:day/:slug.html
 url: http://bremen.freifunk.net
 
